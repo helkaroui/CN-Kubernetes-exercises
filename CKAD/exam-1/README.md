@@ -14,15 +14,15 @@ A Quick Reference box will contain helpful links for each exam exercise as well.
 
 ## Contents
 
-- [Core Concepts - 13%](a.core_concepts.md)
-- [Multi-container pods - 10%](b.multi_container_pods.md)
-- [Pod design - 20%](c.pod_design.md)
-- [Configuration - 18%](d.configuration.md)
-- [Observability - 18%](e.observability.md)
-- [Services and networking - 13%](f.services.md)
-- [State persistence - 8%](g.state.md)
-- [helm](h.helm.md)
-- [Custom Resource Definitions](i.crd.md)
+- [ ] [Core Concepts - 13%](a.core_concepts.md)
+- [ ] [Multi-container pods - 10%](b.multi_container_pods.md)
+- [ ] [Pod design - 20%](c.pod_design.md)
+- [ ] [Configuration - 18%](d.configuration.md)
+- [ ] [Observability - 18%](e.observability.md)
+- [ ] [Services and networking - 13%](f.services.md)
+- [ ] [State persistence - 8%](g.state.md)
+- [ ] [helm](h.helm.md)
+- [ ] [Custom Resource Definitions](i.crd.md)
 
 > If your work is related to multiplayer game servers, checkout out [thundernetes, a brand new project to host game servers on Kubernetes](https://github.com/PlayFab/thundernetes)!
 
