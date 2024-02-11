@@ -14,6 +14,8 @@ kubernetes.io > Documentation > Concepts > Overview > Working with Kubernetes Ob
 
 ### Create 3 pods with names nginx1,nginx2,nginx3. All of them should have the label app=v1
 
+- [X] Done
+
 <details><summary>show</summary>
 <p>
 
@@ -29,6 +31,8 @@ for i in `seq 1 3`; do kubectl run nginx$i --image=nginx -l app=v1 ; done
 </details>
 
 ### Show all labels of the pods
+
+- [ ] Done
 
 <details><summary>show</summary>
 <p>
